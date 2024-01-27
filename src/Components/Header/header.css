@@ -1,0 +1,10 @@
+.header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #252525;
+}
+.header a{
+    margin-left: 300px;
+    color: tomato;
+    text-decoration: none;
+}
